@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lopez;Sebastian;;;
+item1.EMAIL;TYPE=INTERNET:correo@gmail.com
+item1.X-ABLabel:
+TEL;TYPE=CELL:11 2222-3333
+ORG:Acme
+TITLE:Vendedor
+item2.URL:https\://www.youtube.com/
+item2.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzH_QXIco_EGvq49vnmC4F
+ GMjKKe39ozmKW6Zep5N4T7smHh2ahu
+CATEGORIES:myContacts
+END:VCARD
