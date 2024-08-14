@@ -24,6 +24,10 @@ body {
     align-items: center;
     flex-direction: column;
 }
+a {
+    text-decoration: none;
+    color: #fff;
+}
 /* contenedor */
 .contenedor {
     width: 100%;
@@ -112,7 +116,7 @@ body {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin-right:20px;
+    margin-right:50px;
 }
 .row .phone p {
     margin-right: 15px;
