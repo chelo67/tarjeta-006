@@ -132,7 +132,7 @@ body {
     justify-content:center;
     align-items: center;
     margin-top: 20px;
-    background-color: var(--color-secundario);
+    background-color: var(--color-principal);
     align-items: center;
     height: 50px;
 }
